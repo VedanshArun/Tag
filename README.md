@@ -7,7 +7,7 @@
   <h1 align="center">Tag 🥸</h1>
 
   <p align="center">
-    Inspired by the 'Roles' functionality on the Discord Platform, Tag is a whatsapp feature that allows users to make roles, tag specific roles (instead of tagging everyone in a group) and much more. This functionality can be further expanded by integrating qna bot and document manager and can be used to bring the discord role functionality of whatsapp.  
+    Inspired by the 'Roles' functionality on the Discord Platform, Tag is a whatsapp feature built using JavaScript, NodeJS and Whatsapp API, that allows users to make roles, tag specific roles (instead of tagging everyone in a group) and much more. This functionality can be further expanded by integrating qna bot and document manager and can be used to bring the discord role functionality of whatsapp.  
     <br />
     <br />
   </p>
